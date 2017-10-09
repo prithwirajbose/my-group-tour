@@ -1,0 +1,25 @@
+/*!
+ * Start Bootstrap - Full (http://startbootstrap.com/template-overviews/full)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full/blob/master/LICENSE)
+ */
+
+body {
+    background: url('../images/app-landing-bg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+
+.centertext {
+    text-align: center !important;
+}
+
+.appheading {
+    margin-top: 100px !important;
+    margin-bottom: 80px !important;
+    color: #fff;
+    text-shadow: 0 0 3px #000;
+}
