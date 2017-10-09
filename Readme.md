@@ -1,0 +1,2 @@
+# My Group Tour
+My Group Tour is a Group Tour Manager mobile app. This app is being developed by [Prithwiraj](https://www.google.com "Blog of Prithwiraj Bose") and [JujuApps Technologies](https://www.google.com "JujuApps Technologies - Mobile and Web App Developer in Kolkata India")
