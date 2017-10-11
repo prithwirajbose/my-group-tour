@@ -10,7 +10,8 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    min-height: 400px;
 }
 
 .centertext {
@@ -19,7 +20,16 @@ body {
 
 .appheading {
     margin-top: 100px !important;
-    margin-bottom: 80px !important;
     color: #fff;
     text-shadow: 0 0 3px #000;
+}
+
+.subheading {
+    color: #fff;
+    text-shadow: 0 0 3px #000;
+    font-weight: 100;
+}
+
+.maincontent {
+    margin-top: 80px !important;
 }
