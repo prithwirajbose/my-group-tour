@@ -5,6 +5,7 @@
 
     <title>Nanda's Rotten Eggs - Himachal Tour 2017</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -19,7 +20,7 @@
     if(strpos($_SERVER['SCRIPT_NAME'],'/index.php')===false) {
         ?><style type='text/css'>
         body {
-            background: url('../images/appbg.jpg') #baff83 no-repeat center center fixed !important;
+            background: url('<?php echo $config['site']; ?>/images/appbg.jpg') #baff83 top repeat-x fixed !important;
         }
         </style><?php
     }

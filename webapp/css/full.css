@@ -14,6 +14,10 @@ body {
     min-height: 400px;
 }
 
+.material-icons {
+    vertical-align: middle;
+}
+
 .centertext {
     text-align: center !important;
 }
@@ -31,5 +35,14 @@ body {
 }
 
 .maincontent {
-    margin-top: 80px !important;
+    margin-top: 50px !important;
+}
+
+.membernav .thumbnail {
+    margin: 10px;
+    min-width: 130px;
+}
+
+.left-text {
+    text-align: left;
 }
