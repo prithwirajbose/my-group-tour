@@ -38,9 +38,17 @@ if(!isset($_SESSION) || empty($_SESSION['user'])) {
               <h5 class="mb-1">McLeod Gunj</h5>
               <small class="text-muted">2 days</small>
             </div>
-            <p class="mb-1">Dalai Lama Monestry, Naddi</p>
+            <p class="mb-1">Dalai Lama Monestry, Naddi, Dharamsala Statium</p>
           </a>
-         
+          
+          <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+            <div class="d-flex w-100 justify-content-between">
+              <h5 class="mb-1">Dalhousie</h5>
+              <small class="text-muted">2 days</small>
+            </div>
+            <p class="mb-1">Khajjiar, Kalatop National Park</p>
+          </a>
+          
         </div>
         
       </div>
