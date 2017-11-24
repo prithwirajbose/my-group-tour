@@ -6,7 +6,7 @@ if(isset($_POST['submit']) && !empty($_POST['phone']) && !empty($_POST['password
        $_SESSION['user']='8820068365';
        $_SESSION['user_profile'] = array(
           'phone'=>'8820068365',
-          'fullname'=>'Demo User',
+          'fullname'=>'Tourist',
           'password'=>'tour',
           'location'=>'Kolkata'
        );
